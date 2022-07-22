@@ -29,3 +29,7 @@
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreygc7&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreygc7" /></p>  
+
+## My last Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
