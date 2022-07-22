@@ -32,4 +32,5 @@
 
 ## My last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript nasıl çalışır? Call Stack, Memory Head, Web API’s, Callback Queue, Event Loop Nedir?](https://medium.com/@emreygc7/javascript-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-call-stack-memory-head-web-apis-callback-queue-event-loop-nedir-53107e360283?source=rss-4fee4ef6f3b2------2)
 <!-- BLOG-POST-LIST:END -->
