@@ -5,7 +5,7 @@
 
  
   
-- 🌱 I’m currently learning **React.js**  
+- 🌱 I’m currently learning **React.js & Node.js**  
   
 - 📫 How to reach me **emreygc7@gmail.com**  
 
