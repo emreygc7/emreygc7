@@ -1,6 +1,5 @@
 
 <h1 align="left">Hi 👋, I'm Emre</h1>  
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <h4 align="left">I am a frontend developer. I share the projects i wrote to improve myself on my github account. I mainly work on React.js and I strive to learn new technologies.</h4>  
 
  
