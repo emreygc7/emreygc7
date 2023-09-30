@@ -19,6 +19,8 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreygc7&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreygc7" /></p>  
 
+![snake gif](https://github.com/emreygc7/emreygc7/blob/output/github-contribution-grid-snake.gif)
+
 ## My last Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [SWR Nedir?](https://medium.com/@emreygc7/swr-nedir-59695fc5f8e8?source=rss-4fee4ef6f3b2------2)
